@@ -63,7 +63,7 @@ const ContactMe = (props) => {
                     <a href="https://github.com/rahulsaini-js" target="_blank">
                         <img src={github} alt="gh" />
                     </a>
-                    <a href="https://www.linkedin.com/in/rahul-saini-866724194" target="_blank">
+                    <a href="https://www.linkedin.com/in/rahul-saini-5253b2255" target="_blank">
                         <img src={linkedin} alt="li" />
                     </a>
                     <a href="https://twitter.com/rahulsaini0206" target="_blank">
